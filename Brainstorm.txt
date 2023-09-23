@@ -1,0 +1,9 @@
+Discord Bot:
+1. Bot that binds keyboard to soundtrack function in Discord and can do voice effects
+2. Songs that are posted in channel get added to spotify playlist or youtube playlist
+3. Events can be added from discord to a google calendar
+4. Converts voice to test from voice channel
+5. The bot will compile all of the pictures and videos posted in a channel within a certain time frame and create a compilation.
+    a. The bot can also organize media by number of interactions/reactions within the channel (if a picture got a lot of reactions, then it was really
+       popular and can be included in the list.
+    b. Inspiration: "Make a highlight reel from all your time with friends"
